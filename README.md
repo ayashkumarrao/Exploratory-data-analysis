@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.x-red) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DS](https://img.shields.io/badge/Data-Science-ff69b4)
+
 # Exploratory-data-analysis
 
 ![Logos](https://res.cloudinary.com/gurutu/image/upload/v1564601555/Gurutu/social_media/analytics.png)
